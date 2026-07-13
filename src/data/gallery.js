@@ -1,0 +1,80 @@
+export const galleryCategories = [
+  'All',
+  'Performances',
+  'Workshops',
+  'Events',
+  'Studio Life',
+];
+
+export const galleryItems = [
+  {
+    id: 1,
+    category: 'Events',
+    title: 'Academy Event Address',
+    image: '/photos/salt-1.jpg',
+    tall: true,
+  },
+  {
+    id: 2,
+    category: 'Performances',
+    title: 'Stage Performance',
+    image: '/photos/salt-2.jpg',
+    tall: false,
+  },
+  {
+    id: 3,
+    category: 'Performances',
+    title: 'Showcase Moment',
+    image: '/photos/salt-3.jpg',
+    tall: false,
+  },
+  {
+    id: 4,
+    category: 'Studio Life',
+    title: 'Class Session',
+    image: '/photos/salt-4.jpg',
+    tall: true,
+  },
+  {
+    id: 5,
+    category: 'Workshops',
+    title: 'Student Group',
+    image: '/photos/salt-5.jpg',
+    tall: false,
+  },
+  {
+    id: 6,
+    category: 'Events',
+    title: 'Celebration Day',
+    image: '/photos/salt-6.jpg',
+    tall: false,
+  },
+  {
+    id: 7,
+    category: 'Events',
+    title: 'Advaya-23 Kala Mahotsav',
+    image: '/photos/reel-1.jpg',
+    tall: true,
+  },
+  {
+    id: 8,
+    category: 'Performances',
+    title: 'Reel Highlight',
+    image: '/photos/reel-4.jpg',
+    tall: false,
+  },
+  {
+    id: 9,
+    category: 'Workshops',
+    title: 'Showcase Reel Still',
+    image: '/photos/reel-5.jpg',
+    tall: false,
+  },
+  {
+    id: 10,
+    category: 'Studio Life',
+    title: 'Stage Reel Still',
+    image: '/photos/reel-6.jpg',
+    tall: true,
+  },
+];
